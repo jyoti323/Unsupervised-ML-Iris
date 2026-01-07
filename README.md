@@ -35,5 +35,4 @@ The goal is to group flowers into clusters based on their features using the K-M
 6. Plot WCSS graph
 
 
-   ```bash
-   git clone https://github.com/your-username/Iris-KMeans-Clustering.git
+  <img width="871" height="515" alt="file ipynb - Untitled (Workspace) - Visual Studio Code 07-01-2026 13_54_58" src="https://github.com/user-attachments/assets/165044eb-2bdd-4224-b638-72271d2b5efb" />
